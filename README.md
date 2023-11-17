@@ -1,1 +1,1 @@
-# vb-inventory_management_system
+# vb-inventory_management_system(Clothing Store)
